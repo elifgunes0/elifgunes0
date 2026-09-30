@@ -1,4 +1,4 @@
-🇬🇧 ENGLISH PORTFOLIO / PROGRESS REPORT
+ENGLISH PORTFOLIO / PROGRESS REPORT
 Elif Eylül Güneş
 
 Kastamonu University - Computer Programming Student
@@ -22,15 +22,15 @@ Technologies Used: C#, ASP.NET Core, SQL Server, HTML, CSS, JavaScript, Git & Gi
 
 Key Features:
 
-Dynamic menu and content management
+-Dynamic menu and content management
 
-Online table reservation system
+-Online table reservation system
 
-Role-based admin control panel
+-Role-based admin control panel
 
-Customer review and rating module
+-Customer review and rating module
 
-Güneş Assistant: An integrated virtual assistant module designed to answer customer queries and provide instant automated support.
+-Güneş Assistant: An integrated virtual assistant module designed to answer customer queries and provide instant automated support.
 
 Technical Skills
 Programming & Web: C#, PHP, Java, ASP.NET Core, HTML5, CSS3, JavaScript
@@ -81,15 +81,15 @@ Kullanılan Teknolojiler: C#, ASP.NET Core, SQL Server, HTML, CSS, JavaScript, G
 
 Öne Çıkan Özellikler:
 
-Dinamik menü ve içerik yönetimi
+-Dinamik menü ve içerik yönetimi
 
-Online masa rezervasyon sistemi
+-Online masa rezervasyon sistemi
 
-Yetkili kullanıcılar için admin kontrol paneli
+-Yetkili kullanıcılar için admin kontrol paneli
 
-Müşteri yorum ve puanlama sistemi
+-Müşteri yorum ve puanlama sistemi
 
-Güneş Asistan: Kullanıcı sorularını yanıtlamak ve hızlı destek sağlamak için projeye entegre edilen sanal asistan modülü.
+-Güneş Asistan: Kullanıcı sorularını yanıtlamak ve hızlı destek sağlamak için projeye entegre edilen sanal asistan modülü.
 
 Teknik Beceriler
 Programlama & Web: C#, PHP, Java, ASP.NET Core, HTML5, CSS3, JavaScript
