@@ -47,3 +47,5 @@ I am a second-year Computer Programming student at Kastamonu University. I compl
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elifgunes0&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif's GitHub Stats" width="48%" />
 </p>
+<p align="center">
+  
