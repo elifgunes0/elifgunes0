@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi there, I'm Elif Eylül Güneş</h1>
 <p align="center">
   Computer Programming Student · Kastamonu University<br/>
@@ -34,11 +35,11 @@ I am a second-year Computer Programming student at Kastamonu University. I compl
 
 ---
 
-### 📌 Projects / Projeler
+### 📌 Projects
 
-- **Güneş Restaurant** — Full-stack restaurant web app with menu management, admin panel and an AI assistant. · Menü yönetimi, yönetici paneli ve yapay zekâ asistanı olan full-stack web uygulaması. [🔗 View / Görüntüle](https://github.com/elifgunes0/GunesRestorantBitirmeProjesi) *(private repo / özel depo)*
--  **KitapTakip**  Öğrencilerin okuma faaliyetlerini takip eden ilişkisel veritabanı (veli, öğrenci, kitap, okuma kayıtları) ve raporlama sorguları. [🔗 Depoyu İncele](https://github.com/elifgunes0/KitapTakip-VeriTabani) | `SQL Server` `T-SQL` |
-- **Hospital Management System / Hastane Yönetim Sistemi** — Relational database for patients, doctors and appointments. · Hasta, doktor ve randevular için ilişkisel veritabanı. [🔗 GitHub](YOUR_HOSPITAL_REPO_LINK_HERE)
+- **Güneş Restaurant** — Full-stack restaurant web app with menu management, admin panel and an AI assistant. · Menü yönetimi, yönetici paneli ve yapay zekâ asistanı olan full-stack web uygulaması. [🔗 View / Görüntüle](https://github.com/elifgunes0/GunesRestorantBitirmeProjesi) *(private repo)*
+  
+-  **KitapTakip**  Öğrencilerin okuma faaliyetlerini takip eden ilişkisel veritabanı (veli, öğrenci, kitap, okuma kayıtları) ve raporlama sorguları. [🔗 Depoyu İncele](https://github.com/elifgunes0/KitapTakip-VeriTabani) 
 
 ---
 
