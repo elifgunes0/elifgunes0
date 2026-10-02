@@ -10,7 +10,7 @@
 
 ## About 
 
-I am a second-year Computer Programming student at Kastamonu University. I completed my summer internship at the Presidential Complex (Cumhurbaşkanlığı Külliyesi) in 2026, and I am passionate about building websites and web applications.
+Second-year Computer Programming student at Kastamonu University, focusing on full-stack web development, backend architectures, and relational database management. Completed a 30-working-day **Software Development Internship at the Presidential Complex (Cumhurbaşkanlığı Külliyesi)**.
 
 
 
